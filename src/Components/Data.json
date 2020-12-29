@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Timo Werner",
+        "tel":"082712021",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"Kai Harvert",
+        "tel":"0827328323",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"Tammy Abraham",
+        "tel":"083092832",
+        "permission":3
+    },
+    {
+        "id":4,
+        "name":"Mason Mount",
+        "tel":"2749428042",
+        "permission":1
+    },
+    {
+        "id":5,
+        "name":"Hakim Ziyech",
+        "tel":"02840284",
+        "permission":2
+    }
+]
